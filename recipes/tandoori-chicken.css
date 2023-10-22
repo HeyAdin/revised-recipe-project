@@ -1,0 +1,26 @@
+* {
+    color: white;
+    font-size: 20px;
+}
+
+body {
+    background-color: rgba(89, 133, 69, 0.726);
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 52px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-size: 32px;
+    color: brown;
+    font-family:'Courier New', Courier, monospace;
+}
+
+img {
+    width: 550px;
+    height: auto;
+}
